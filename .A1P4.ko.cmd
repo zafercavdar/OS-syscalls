@@ -1,0 +1,1 @@
+cmd_/home/zaf/Desktop/304-A1/A1P4.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/zaf/Desktop/304-A1/A1P4.ko /home/zaf/Desktop/304-A1/A1P4.o /home/zaf/Desktop/304-A1/A1P4.mod.o
